@@ -1,0 +1,8 @@
+C:\Users\user\OneDrive\Документы\work\console\Техническое задание на проценты\Техническое задание на проценты\bin\Debug\Техническое задание на проценты.exe.config
+C:\Users\user\OneDrive\Документы\work\console\Техническое задание на проценты\Техническое задание на проценты\bin\Debug\Техническое задание на проценты.exe
+C:\Users\user\OneDrive\Документы\work\console\Техническое задание на проценты\Техническое задание на проценты\bin\Debug\Техническое задание на проценты.pdb
+C:\Users\user\OneDrive\Документы\work\console\Техническое задание на проценты\Техническое задание на проценты\obj\Debug\Техническое задание на проценты.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Документы\work\console\Техническое задание на проценты\Техническое задание на проценты\obj\Debug\Техническое задание на проценты.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Документы\work\console\Техническое задание на проценты\Техническое задание на проценты\obj\Debug\Техническое задание на проценты.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Документы\work\console\Техническое задание на проценты\Техническое задание на проценты\obj\Debug\Техническое задание на проценты.exe
+C:\Users\user\OneDrive\Документы\work\console\Техническое задание на проценты\Техническое задание на проценты\obj\Debug\Техническое задание на проценты.pdb
